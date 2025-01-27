@@ -126,13 +126,13 @@ function App() {
           your day? Check out these playlists and let the music do the talking!
         </p>
         <button className="custom-playlist-button" onClick={handleDetails}>
-          Get Your Custom Playlist
+          Create My Custom Playlist
         </button>
         <a
           href="https://open.spotify.com/user/31gc7norgfexet6busx62ffpner4?si=21fa0e1c825c41f4"
           target="_blank"
         >
-          <button>Explore Curated Playlists</button>
+          <button>Browse Curated Playlists</button>
         </a>
         <footer>
           Coded by
