@@ -61,8 +61,8 @@ function App() {
         <button className="theme-button" onClick={toggleTheme}>
           Switch to {theme === "light" ? "Dark" : "Light"} Mode
         </button>
-        <h1>The Art of Playlist Crafting</h1>
-        <h2>Why I Love Crafting Playlists</h2>
+        <h1>Welcome to CurateMe</h1>
+        <h2>Let’s Curate Your Sound</h2>
         <div className="first-image-container">
           <a href="https://example.com/link1" target="_blank">
             <img
